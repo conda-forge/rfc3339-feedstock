@@ -1,6 +1,6 @@
 {% set name = "rfc3339" %}
-{% set version = "5.2" %}
-{% set sha256 = "e1d7728374e4f0863c491816281fe89dae701fa3b3eaf5fe0ff89aa4be775d72" %}
+{% set version = "6.0" %}
+{% set sha256 = "589c8b8cab8a35f85313cb80f1b0b0b3ca16a527f354beadb59882fd4473f187" %}
 
 package:
   name: {{ name|lower }}
