@@ -14,14 +14,15 @@ Summary: Format dates according to the RFC 3339
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/rfc3339-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/rfc3339-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/rfc3339-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/rfc3339-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/rfc3339-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/rfc3339-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/rfc3339-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/rfc3339-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/rfc3339/badges/version.svg)](https://anaconda.org/conda-forge/rfc3339)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/rfc3339/badges/downloads.svg)](https://anaconda.org/conda-forge/rfc3339)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-rfc3339-green.svg)](https://anaconda.org/conda-forge/rfc3339) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/rfc3339.svg)](https://anaconda.org/conda-forge/rfc3339) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/rfc3339.svg)](https://anaconda.org/conda-forge/rfc3339) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/rfc3339.svg)](https://anaconda.org/conda-forge/rfc3339) |
 
 Installing rfc3339
 ==================
