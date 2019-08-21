@@ -1,6 +1,6 @@
 {% set name = "rfc3339" %}
-{% set version = "6.0" %}
-{% set sha256 = "589c8b8cab8a35f85313cb80f1b0b0b3ca16a527f354beadb59882fd4473f187" %}
+{% set version = "6.1" %}
+{% set sha256 = "5cd675457189a784dca6f0c021dbcb0ed0ba8e5cdf6fa2d2b2441604ad32eebd" %}
 
 package:
   name: {{ name|lower }}
@@ -13,7 +13,7 @@ source:
 
 build:
   noarch: python
-  number: 1
+  number: 0
   script: python -m pip install --no-deps --ignore-installed .
 
 requirements:
