@@ -1,6 +1,6 @@
 {% set name = "rfc3339" %}
-{% set version = "6.1" %}
-{% set sha256 = "5cd675457189a784dca6f0c021dbcb0ed0ba8e5cdf6fa2d2b2441604ad32eebd" %}
+{% set version = "6.2" %}
+{% set sha256 = "d53c3b5eefaef892b7240ba2a91fef012e86faa4d0a0ca782359c490e00ad4d0" %}
 
 package:
   name: {{ name|lower }}
@@ -36,7 +36,8 @@ about:
   home: https://bitbucket.org/henry/rfc3339
   license: ISCL
   license_family: BSD
-  license_file: LICENSE
+  # License file not included in the source distribution
+  # license_file: LICENSE
   summary: 'Format dates according to the RFC 3339'
   dev_url: https://bitbucket.org/henry/rfc3339
 
