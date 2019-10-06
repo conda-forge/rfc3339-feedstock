@@ -36,7 +36,8 @@ about:
   home: https://bitbucket.org/henry/rfc3339
   license: ISCL
   license_family: BSD
-  license_file: LICENSE
+  # License file not included in the source distribution
+  # license_file: LICENSE
   summary: 'Format dates according to the RFC 3339'
   dev_url: https://bitbucket.org/henry/rfc3339
 
