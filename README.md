@@ -3,13 +3,13 @@ About rfc3339-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/rfc3339-feedstock/blob/main/LICENSE.txt)
 
-Home: https://bitbucket.org/henry/rfc3339
+Home: http://pypi.python.org/pypi/rfc3339/
 
-Package license: ISCL
+Package license: ISC
 
 Summary: Format dates according to the RFC 3339
 
-Development: https://bitbucket.org/henry/rfc3339
+Development: https://hg.sr.ht/~henryprecheur/rfc3339
 
 Current build status
 ====================
